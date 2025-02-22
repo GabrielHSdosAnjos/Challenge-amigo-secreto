@@ -18,7 +18,7 @@ function atualizarLista() {
     const lista = document.getElementById('listaAmigos');
     lista.innerHTML = "";
 
-    amigos.forEach((amigo, index) => {
+    amigos.forEach((amigo) => {
         const listItem = document.createElement('li');
         listItem.textContent = amigo;
         lista.appendChild(listItem);
@@ -33,6 +33,11 @@ function sortearAmigo() {
 
     const indiceSorteado = Math.floor(Math.random() * amigos.length);
     const amigoSecreto = amigos[indiceSorteado];
+    
+    // Removendo os nomes da lista
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML = "";
+    
     const resultado = document.getElementById('resultado');
     resultado.textContent = `O amigo secreto é: ${amigoSecreto}`;
 }
