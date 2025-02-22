@@ -1,4 +1,7 @@
 <h1 align="center">Challenger-amigo-secreto </h1> 
 <div align="center">
-![imagem](https://github.com/user-attachments/assets/0d67a93e-e626-4ee4-b650-13789360e14b)
+
+
+![Challenge (760 x 160 px)](https://github.com/user-attachments/assets/767190af-1731-4b3f-b6fa-5c0e53db70c7)
+
 </div>
