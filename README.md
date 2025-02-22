@@ -54,7 +54,7 @@ Apesar desses obstáculos, o projeto foi uma excelente oportunidade para aplicar
 ## 📌 **Projeto**
 
 Você pode conferir o projeto online no seguinte link:  
-[Challenger Amigo Secreto](https://gabrielhsdosanjos.github.io/Challenger-amigo-secreto/)
+[Challenge Amigo Secreto](https://gabrielhsdosanjos.github.io/Challenge-amigo-secreto/)
 
 ![Imagem do site](https://github.com/user-attachments/assets/9c370270-b633-479f-a763-fd2f8756317d)
 
