@@ -1,4 +1,5 @@
-<h1 align="center">Challenger-amigo-secreto </h1> 
+<h1 align="center">Challenger Amigo Secreto![2](https://github.com/user-attachments/assets/7ed181a9-37dd-4307-af0f-1342ff0cfce6)
+ </h1> 
 <div align="center">
 
 
