@@ -10,7 +10,7 @@
 }
 @font-face {
     font-family: 'Chinese Rocks';
-    src: url(/assets/chinese-rocks/chinese\ rocks\ rg.ttf) format('truetype');
+    src: url(assets/chinese-rocks/chinese\ rocks\ rg.ttf) format('truetype');
     font-weight: normal;
     font-style: normal;
 }
