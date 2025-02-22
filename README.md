@@ -38,9 +38,9 @@ A seguir, algumas das customizações que fiz para tornar o site mais envolvente
 - **Tipografia e efeitos visuais** para criar uma experiência mais imersiva.
 - **Animações e interações dinâmicas** que tornam a navegação mais agradável.
 
-
+<div align="center">
 ![images](https://github.com/user-attachments/assets/f176dac4-4303-42f3-8ee2-b9479a0e9900)
-
+</div>
 
 
 
