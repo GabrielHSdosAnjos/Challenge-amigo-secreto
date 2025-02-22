@@ -38,6 +38,8 @@ A seguir, algumas das customizações que fiz para tornar o site mais envolvente
 - **Tipografia e efeitos visuais** para criar uma experiência mais imersiva.
 - **Animações e interações dinâmicas** que tornam a navegação mais agradável.
 
+
+
 ## 🛠️ **Dificuldades Durante o Desenvolvimento**
 
 Embora tenha sido uma jornada bastante positiva, encontrei alguns desafios durante o processo de desenvolvimento:
