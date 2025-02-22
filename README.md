@@ -59,3 +59,14 @@ Você pode conferir o projeto online no seguinte link:
 ![Imagem do site](https://github.com/user-attachments/assets/9c370270-b633-479f-a763-fd2f8756317d)
 
 ![Animação](https://github.com/user-attachments/assets/b35c53f5-27fb-47f3-90f5-0adf7e274269)
+
+
+## 🙏 **Agradecimentos**
+
+Gostaria de agradecer aos professores da Alura:
+
+- **Guilherme Lima** e **Mônica Mazzochi** pelos ensinamentos em **JavaScript**.
+- **Rodrigo da Silva** e **Gabrielle Ribeiro** pelo ensinamentos em **Git** e **GitHub**.
+- **Genesys Rondon** pela proposta do desafio do programa **One da Oracle**.
+
+Obrigado a todos!!!
