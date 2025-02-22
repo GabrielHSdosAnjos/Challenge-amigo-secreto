@@ -1,5 +1,5 @@
 <h1 align="center">Challenger Amigo Secreto</h1> 
-![2](https://github.com/user-attachments/assets/150312c0-dbd4-4277-afc0-f423789dfac8)
+ <img width="tamanho da imagem" title="titulo da imagem" src="https://github.com/user-attachments/assets/150312c0-dbd4-4277-afc0-f423789dfac"/>
 
 
 <div align="center">
