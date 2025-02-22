@@ -41,7 +41,7 @@ A seguir, algumas das customizações que fiz para tornar o site mais envolvente
 
 ![images](https://github.com/user-attachments/assets/f176dac4-4303-42f3-8ee2-b9479a0e9900)
 
-<img width="500" height="300" />
+
 
 
 ## 🛠️ **Dificuldades Durante o Desenvolvimento**
