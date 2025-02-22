@@ -49,9 +49,6 @@ Embora tenha sido uma jornada bastante positiva, encontrei alguns desafios duran
 
 Apesar desses obstáculos, o projeto foi uma excelente oportunidade de aprendizado, pois pude aplicar meus conhecimentos em **HTML**, **CSS** e **JavaScript** para superar os desafios e aprimorar minhas habilidades.
 
-## 📌 **Funcionalidades do Site**
+## 📌 **Site**
+![iamgem do site](https://github.com/user-attachments/assets/9c370270-b633-479f-a763-fd2f8756317d)
 
-- **Cadastro de Participantes**: Usuários podem inserir os nomes dos participantes no campo de entrada.
-- **Sorteio Aleatório**: Com um clique, o sistema realiza o sorteio e exibe o resultado.
-- **Design Imersivo**: A interface foi cuidadosamente planejada para evocar o clima do Velho Oeste, inspirado no *Red Dead Redemption 2*.
-- **Feedback Visual**: Animações e efeitos são utilizados para tornar a experiência mais agradável e dinâmica.
