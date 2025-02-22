@@ -39,6 +39,10 @@ A seguir, algumas das customizações que fiz para tornar o site mais envolvente
 - **Animações e interações dinâmicas** que tornam a navegação mais agradável.
 
 
+![images](https://github.com/user-attachments/assets/f176dac4-4303-42f3-8ee2-b9479a0e9900)
+
+<img src="https://github.com/user-attachments/assets/f176dac4-4303-42f3-8ee2-b9479a0e990" width="500" height="300" />
+
 
 ## 🛠️ **Dificuldades Durante o Desenvolvimento**
 
