@@ -1,7 +1,9 @@
 <h1 align="center">Challenger Amigo Secreto</h1> 
-![2](https://github.com/user-attachments/assets/6d422c7c-76a8-4a3e-a86c-79db7fb86322)
+![2](https://github.com/user-attachments/assets/150312c0-dbd4-4277-afc0-f423789dfac8)
+
 
 <div align="center">
-![Challenge (760 x 160 px)](https://github.com/user-attachments/assets/767190af-1731-4b3f-b6fa-5c0e53db70c7)
+![Challenge (760 x 160 px)](https://github.com/user-attachments/assets/62b0d460-a731-4056-942d-ad61c0814295)
+
 
 </div>
