@@ -55,7 +55,7 @@ Embora tenha sido uma jornada bastante positiva, encontrei alguns desafios duran
 
 Apesar desses obstáculos, o projeto foi uma excelente oportunidade de aprendizado, pois pude aplicar meus conhecimentos em **HTML**, **CSS** e **JavaScript** para superar os desafios e aprimorar minhas habilidades.
 
-## 📌 **Site**
+## 📌 **Projeto**
 https://gabrielhsdosanjos.github.io/Challenger-amigo-secreto/
 
 ![iamgem do site](https://github.com/user-attachments/assets/9c370270-b633-479f-a763-fd2f8756317d)
