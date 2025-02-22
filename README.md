@@ -60,5 +60,7 @@ https://gabrielhsdosanjos.github.io/Challenger-amigo-secreto/
 
 ![iamgem do site](https://github.com/user-attachments/assets/9c370270-b633-479f-a763-fd2f8756317d)
 
+![Animação](https://github.com/user-attachments/assets/b35c53f5-27fb-47f3-90f5-0adf7e274269)
+
 
 
